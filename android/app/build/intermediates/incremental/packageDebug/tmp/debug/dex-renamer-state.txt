@@ -1,0 +1,4 @@
+#Sat Jun 01 17:33:21 BRT 2019
+base.0=/home/denis/Sites/bootcamp/GitNative/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
